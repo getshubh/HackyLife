@@ -1,0 +1,617 @@
+{
+  "food":
+  [
+    {
+      "id": "528",
+      "category": "14",
+      "description": "Hate having bread ends? Turn the outward sides inwards to make a sandwich, perfect for little kids, they'll never know!",
+      "status": "1"
+    },
+    {
+      "id": "527",
+      "category": "14",
+      "description": "Putting Vodka on your face reduces the chances of acne breakouts by tightening your pores.",
+      "status": "1"
+    },
+    {
+      "id": "526",
+      "category": "14",
+      "description": "Shake a can of mixed nuts before you eat them. The larger ones will always rise to the top.",
+      "status": "1"
+    },
+    {
+      "id": "525",
+      "category": "14",
+      "description": "Put a slice of bread in a container of stale or hardened cookies to make them soft again.",
+      "status": "1"
+    },
+    {
+      "id": "524",
+      "category": "14",
+      "description": "When making a cake, always add 2 tbs. boiling water to the butter and sugar mixture. This makes a fine textured cake.",
+      "status": "1"
+    },
+    {
+      "id": "523",
+      "category": "14",
+      "description": "Put sprinkles on the bottom of the cone so ice cream doesn't leak out.",
+      "status": "1"
+    },
+    {
+      "id": "522",
+      "category": "14",
+      "description": "Reheat leftover pizza on a frying pan. It'll keep the crust from getting soft.",
+      "status": "1"
+    },
+    {
+      "id": "521",
+      "category": "14",
+      "description": "Turn your spoon upside down when pouring milk into a bowl of cereal to prevent splashing.",
+      "status": "1"
+    },
+    {
+      "id": "520",
+      "category": "14",
+      "description": "Eating watermelon can help reduce acne breakouts and keep skin Health & Fitnessier.",
+      "status": "1"
+    },
+    {
+      "id": "519",
+      "category": "14",
+      "description": "Use lollipops to stir mixed drinks to give them extra flavor.",
+      "status": "1"
+    },
+    {
+      "id": "518",
+      "category": "14",
+      "description": "Have leftover coffee from this morning? Make coffee ice cubes. Can be used to cool iced coffee without diluting it.",
+      "status": "1"
+    },
+    {
+      "id": "517",
+      "category": "14",
+      "description": "People who regularly eat fast food are 51% more likely to become depressed.",
+      "status": "1"
+    },
+    {
+      "id": "516",
+      "category": "14",
+      "description": "Overcooked your bacon while making breakfast? Crumble it and add it into your scrambled eggs!",
+      "status": "1"
+    },
+    {
+      "id": "515",
+      "category": "14",
+      "description": "To stop a popsicle from dipping on your hands, stick a muffin tin through the stick so it catches the mess.",
+      "status": "1"
+    },
+    {
+      "id": "514",
+      "category": "14",
+      "description": "Making cookies and don't have any eggs? Sure you could ask the neighbor, but half a banana (per egg) works as a good substitute!",
+      "status": "1"
+    },
+    {
+      "id": "513",
+      "category": "14",
+      "description": "Pour pancake batter over strips of bacon to make the best pancakes ever!",
+      "status": "1"
+    },
+    {
+      "id": "512",
+      "category": "14",
+      "description": "Put a small amount of water in a glass when you microwave your pizza to keep the crust from getting chewy.",
+      "status": "1"
+    },
+    {
+      "id": "511",
+      "category": "14",
+      "description": "Caramel Apple Slices: Hollow out half an apple, pour caramel in, let harden in the freezer, cut into slices, enjoy!",
+      "status": "1"
+    },
+    {
+      "id": "510",
+      "category": "14",
+      "description": "Popcorn pops better when stored in cold places like the refrigerator.",
+      "status": "1"
+    },
+    {
+      "id": "509",
+      "category": "14",
+      "description": "Slurping your food loudly at Japanese restaurants is actually seen as a positive gesture and indicates to the chef that you enjoy the food.",
+      "status": "1"
+    },
+    {
+      "id": "508",
+      "category": "14",
+      "description": "Starbucks offers a size smaller than Tall: Short! Cheaper, and a much Health & Fitnessier size. Just ask the barista.",
+      "status": "1"
+    },
+    {
+      "id": "507",
+      "category": "14",
+      "description": "Honey, when mixed with vinegar and water, can remove worms and other parasites in your body.",
+      "status": "1"
+    },
+    {
+      "id": "506",
+      "category": "14",
+      "description": "Honey is the only food that will never rot. A jar of honey can remain edible for over 3,000 years.",
+      "status": "1"
+    },
+    {
+      "id": "505",
+      "category": "14",
+      "description": "Eating mangoes before smoking marijuana can heighten it's effects!",
+      "status": "1"
+    },
+    {
+      "id": "504",
+      "category": "14",
+      "description": "Extra Bacon and Extra Cheese is free of charge with the order of a Bacon Cheeseburger at Five Guys.",
+      "status": "1"
+    },
+    {
+      "id": "503",
+      "category": "14",
+      "description": "The easiest homemade Pizza dough: 1 cup of greek yogurt and 1 cup of self rising flour... Thats it!",
+      "status": "1"
+    },
+    {
+      "id": "502",
+      "category": "14",
+      "description": "Crush up Oreo cookies and put them in a salt grinder for an easy and tasty dessert toppings.",
+      "status": "1"
+    },
+    {
+      "id": "501",
+      "category": "14",
+      "description": "Poke a fork through the creamy part of an Oreo so you can dip the whole Oreo in milk without getting your fingers wet.",
+      "status": "1"
+    },
+    {
+      "id": "500",
+      "category": "14",
+      "description": "When you add cream, coffee stays warm 20% longer.",
+      "status": "1"
+    },
+    {
+      "id": "499",
+      "category": "14",
+      "description": "Stuffy nose? Leave a sliced onion near where you sleep and let it sit for the night. When you wake up you'll have a clear nose.",
+      "status": "1"
+    },
+    {
+      "id": "498",
+      "category": "14",
+      "description": "Nutella Cookies: 1 cup Nutella, 1 whole egg, 1 cup flour. Bake for 6-8 min at 350.",
+      "status": "1"
+    },
+    {
+      "id": "497",
+      "category": "14",
+      "description": "Drinking chocolate milk has been proven to help relieve muscle soreness after a workout.",
+      "status": "1"
+    },
+    {
+      "id": "496",
+      "category": "14",
+      "description": "Turn bread upside down when cutting it, this will save it from being squished and is also easier to cut.",
+      "status": "1"
+    },
+    {
+      "id": "495",
+      "category": "14",
+      "description": "Mixing alcohol with diet coke will get you more drunk than mixing it with regular coke.",
+      "status": "1"
+    },
+    {
+      "id": "494",
+      "category": "14",
+      "description": "Twist open an oreo and put in melted chocolate and a roasted marshmallow. I call it them S'moreos.",
+      "status": "1"
+    },
+    {
+      "id": "493",
+      "category": "14",
+      "description": "If you have just eaten a hot pepper or another spicy food, eat some yogurt. The relief comes immediately and it works better than bread or milk.",
+      "status": "1"
+    },
+    {
+      "id": "492",
+      "category": "14",
+      "description": "Put chocolate and strawberries in an ice tray for a delicious treat.",
+      "status": "1"
+    },
+    {
+      "id": "491",
+      "category": "14",
+      "description": "Cauliflower dipped in barbecue sauce tastes almost the same as chicken nuggets and it's infinitely Health & Fitnessier.",
+      "status": "1"
+    },
+    {
+      "id": "490",
+      "category": "14",
+      "description": "Peanut shells are edible, you don't actually have to take them off to eat the peanut.",
+      "status": "1"
+    },
+    {
+      "id": "489",
+      "category": "14",
+      "description": "Banana is a happy fruit. Eating just one can help relieve irritable emotions, anger and or depression.",
+      "status": "1"
+    },
+    {
+      "id": "488",
+      "category": "14",
+      "description": "At a restaurant, you'll never go wrong ordering the chef's favorite dish.",
+      "status": "1"
+    },
+    {
+      "id": "487",
+      "category": "14",
+      "description": "Take a sip of coffee before adding sugar, you won't need as much sugar for it to taste as sweet afterwards.",
+      "status": "1"
+    },
+    {
+      "id": "486",
+      "category": "14",
+      "description": "Push a straw through the middle of a strawberry to easily remove the stem.",
+      "status": "1"
+    },
+    {
+      "id": "485",
+      "category": "14",
+      "description": "To easily eat an orange, cut a slit in the top and the bottom and simply roll it out.",
+      "status": "1"
+    },
+    {
+      "id": "484",
+      "category": "14",
+      "description": "Mix vodka + candy in a container. Wait a day, then get drunk while snacking!",
+      "status": "1"
+    },
+    {
+      "id": "483",
+      "category": "14",
+      "description": "Gatorade or Powerade is only Health & Fitnessy when it's during a workout, and watered down. Otherwise it's all just extra sugar and empty calories.",
+      "status": "1"
+    },
+    {
+      "id": "482",
+      "category": "14",
+      "description": "Replace the butter in almost every recipe with coconut oil. It has a rich, lightly sweet taste, and it is super Health & Fitnessy.",
+      "status": "1"
+    },
+    {
+      "id": "481",
+      "category": "14",
+      "description": "Put Pancake Mix in a Ketchup bottle for a clean no-mess experience.",
+      "status": "1"
+    },
+    {
+      "id": "480",
+      "category": "14",
+      "description": "Buying ice cream? Press on the top of the container, if it's solid it has been properly stored, if it depresses it has thawed and refrozen.",
+      "status": "1"
+    },
+    {
+      "id": "479",
+      "category": "14",
+      "description": "To get rid of fruit flies, fill a bowl with apple cider vinegar and a bit of soap. The vinegar attracts them, the soap will kill them.",
+      "status": "1"
+    },
+    {
+      "id": "478",
+      "category": "14",
+      "description": "Add one teaspoon of lemon juice to each quart of water when cooking rice, this will keep rice fluffy.",
+      "status": "1"
+    },
+    {
+      "id": "477",
+      "category": "14",
+      "description": "The more you flip meat when cooking, the more it looses its crispness and natural juices.",
+      "status": "1"
+    },
+    {
+      "id": "476",
+      "category": "14",
+      "description": "Hate that dust in the last couple bowls of cereal? Pour it into a strainer first!",
+      "status": "1"
+    },
+    {
+      "id": "475",
+      "category": "14",
+      "description": "When making tacos, put the cheese on before the meat. The cheese will melt and prevent the taco shell from breaking apart!",
+      "status": "1"
+    },
+    {
+      "id": "474",
+      "category": "14",
+      "description": "To cook bacon perfectly, put it on tin foil, heat the oven to 400 degrees, and bake it for 12 minutes.",
+      "status": "1"
+    },
+    {
+      "id": "473",
+      "category": "14",
+      "description": "Microwave a Nature Valley bar for 30 seconds to prevent crumbs when you eat it.",
+      "status": "1"
+    },
+    {
+      "id": "472",
+      "category": "14",
+      "description": "Eating Salmon can help your hair grow faster.",
+      "status": "1"
+    },
+    {
+      "id": "471",
+      "category": "14",
+      "description": "Mountain Dew was originally made to be mixed with whiskey. Try it!",
+      "status": "1"
+    },
+    {
+      "id": "470",
+      "category": "14",
+      "description": "When storing empty airtight containers, throw in a pinch of salt to keep them from getting stinky.",
+      "status": "1"
+    },
+    {
+      "id": "469",
+      "category": "14",
+      "description": "Eating bananas at the time of conception increases the chances of having a baby boy.",
+      "status": "1"
+    },
+    {
+      "id": "468",
+      "category": "14",
+      "description": "Use a bread tab to hold your spot on a roll of tape.",
+      "status": "1"
+    },
+    {
+      "id": "467",
+      "category": "14",
+      "description": "Hungry and want a ride home? Go to the local pizza shop, order a pizza for delivery, and get a ride home with the driver.",
+      "status": "1"
+    },
+    {
+      "id": "466",
+      "category": "14",
+      "description": "Nutella + milk in the microwave will give you the best hot chocolate ever!",
+      "status": "1"
+    },
+    {
+      "id": "465",
+      "category": "14",
+      "description": "If no jelly is available for a PB & J, use maple syrup instead. Just as delicious.",
+      "status": "1"
+    },
+    {
+      "id": "464",
+      "category": "14",
+      "description": "Mix 1/4 cup of vinegar, honey and take 1 tablespoon 6 times a day to kill all the bacteria in your sore throat.",
+      "status": "1"
+    },
+    {
+      "id": "463",
+      "category": "14",
+      "description": "Lemon water helps clean the toxins out of our bodies. When you get rid of toxic waste in your system, your skin will show it first.",
+      "status": "1"
+    },
+    {
+      "id": "462",
+      "category": "14",
+      "description": "Taco hack: Wrap a soft tortilla around the crunchy one it'll hold everything way better, + you can put beans/cheese between them!",
+      "status": "1"
+    },
+    {
+      "id": "461",
+      "category": "14",
+      "description": "Stuff marshmallows BEFORE you roast them! Chocolate chips, peanut butter cups, strawberries... endless possibilities!",
+      "status": "1"
+    },
+    {
+      "id": "460",
+      "category": "14",
+      "description": "Microwaving lemons and other fruits for fifteen seconds can double the amount of juice you get from them.",
+      "status": "1"
+    },
+    {
+      "id": "459",
+      "category": "14",
+      "description": "Soak Oreos in half-and-half, and lay them on wax paper in the freezer. In an hour, each one will be a delicious mini ice cream sandwich.",
+      "status": "1"
+    },
+    {
+      "id": "458",
+      "category": "14",
+      "description": "Did your tortilla chips get a little stale? Toss them in the oven for 10 minutes at 375 degrees. They will come out just like new!",
+      "status": "1"
+    },
+    {
+      "id": "457",
+      "category": "14",
+      "description": "Put crushed up Oreos or Doritos in an old pepper shaker to spice up your bland meals.",
+      "status": "1"
+    },
+    {
+      "id": "456",
+      "category": "14",
+      "description": "You can add two eggs and half a cup of oil to turn any cake mix into cookie dough.",
+      "status": "1"
+    },
+    {
+      "id": "455",
+      "category": "14",
+      "description": "Recipe for relaxation: exhale completely, inhale for four seconds, hold your breath for seven seconds and exhale for eight seconds.",
+      "status": "1"
+    },
+    {
+      "id": "454",
+      "category": "14",
+      "description": "Mix two cups of cool whip, six tablespoons of Nutella, and one cup of milk. Put it in molds in the freezer to make Nutella pops!",
+      "status": "1"
+    },
+    {
+      "id": "453",
+      "category": "14",
+      "description": "Keep bananas fresher longer by wrapping the stems in plastic wrap.",
+      "status": "1"
+    },
+    {
+      "id": "452",
+      "category": "14",
+      "description": "When reheating rice or pasta in the microwave, sprinkle a little bit of water on top first. This will make it taste way better, almost like you just made it.",
+      "status": "1"
+    },
+    {
+      "id": "451",
+      "category": "14",
+      "description": "Don't have any butter for your grilled cheese? Whisk an egg until fully mixed, then spread with a fork onto your bread. It really works!",
+      "status": "1"
+    },
+    {
+      "id": "450",
+      "category": "14",
+      "description": "If you peel a banana from the bottom, you won't have to pick the little 'stringy things' off of it.",
+      "status": "1"
+    },
+    {
+      "id": "449",
+      "category": "14",
+      "description": "Make 'cookie bowls' by simply turning your muffin or cupcake pan upside down.",
+      "status": "1"
+    },
+    {
+      "id": "448",
+      "category": "14",
+      "description": "Nutella Mug Cake: 4 Tbsp flour, 1/4 tsp baking powder, 1/4 cup Nutella, 3 Tbsp milk and then microwave for 1 minute.",
+      "status": "1"
+    },
+    {
+      "id": "447",
+      "category": "14",
+      "description": "Coffee has been found to reverse liver damage caused by alcohol.",
+      "status": "1"
+    },
+    {
+      "id": "446",
+      "category": "14",
+      "description": "Eating breakfast in the morning makes it ten times easier to burn calories throughout the day. It also makes you less likely to get acne.",
+      "status": "1"
+    },
+    {
+      "id": "445",
+      "category": "14",
+      "description": "You can actually soften cookies by placing a slice of bread inside the jar.",
+      "status": "1"
+    },
+    {
+      "id": "444",
+      "category": "14",
+      "description": "Oysters, lean meat, seafood, and whole grains are all foods that have been proven to boost sex drive.",
+      "status": "1"
+    },
+    {
+      "id": "443",
+      "category": "14",
+      "description": "Use condiment bottles filled with icing for an easy way to decorate cookies and cakes.",
+      "status": "1"
+    },
+    {
+      "id": "442",
+      "category": "14",
+      "description": "Ketchup can be used to clean copper pots and pans. The acid in the ketchup removes tarnish and brings out the shine.",
+      "status": "1"
+    },
+    {
+      "id": "441",
+      "category": "14",
+      "description": "Trouble with chopsticks? It is perfectly acceptable to eat sushi with your hands since that was the way it was originally done in Japan.",
+      "status": "1"
+    },
+    {
+      "id": "440",
+      "category": "14",
+      "description": "Unload a fridge pack of Coke in a jiffy by opening both ends and pulling out the box.",
+      "status": "1"
+    },
+    {
+      "id": "439",
+      "category": "14",
+      "description": "The most effective cough syrup that exists is honey.",
+      "status": "1"
+    },
+    {
+      "id": "438",
+      "category": "14",
+      "description": "Run your bacon under cold water before cooking it. Doing so will reduce shrinkage by up to 50%.",
+      "status": "1"
+    },
+    {
+      "id": "437",
+      "category": "14",
+      "description": "Trying to cut sugar out of your diet? Freeze bananas. They are much sweeter that way and you will have a great tasty treat.",
+      "status": "1"
+    },
+    {
+      "id": "436",
+      "category": "14",
+      "description": "Tired of jelly soaking through your peanut butter and jelly sandwiches? Spread the peanut butter on both sides of the bread and put the jelly in the middle.",
+      "status": "1"
+    },
+    {
+      "id": "435",
+      "category": "14",
+      "description": "Buy bananas in various degrees of ripeness, so that you will have a ripe one to eat every day.",
+      "status": "1"
+    },
+    {
+      "id": "434",
+      "category": "14",
+      "description": "Butter too hard or frozen to spread? Grab a cheese grater and grate it right onto the bread. Works like a charm!",
+      "status": "1"
+    },
+    {
+      "id": "433",
+      "category": "14",
+      "description": "To chill a warm beer in 2 minutes, wrap a wet paper towel around the bottle, and place it upright in the freezer.",
+      "status": "1"
+    },
+    {
+      "id": "432",
+      "category": "14",
+      "description": "Pistachio too hard to open? Stick a used shell in the crack and turn it like a key. It'll pop right open!",
+      "status": "1"
+    },
+    {
+      "id": "431",
+      "category": "14",
+      "description": "The funniest way to peel eggs: create a small hole at the top of a boiled egg and a large one at the bottom. Blow into the small hole and watch the egg pop out!",
+      "status": "1"
+    },
+    {
+      "id": "430",
+      "category": "14",
+      "description": "Pop a lime in the microwave 30 seconds for the juiciest lime ever.",
+      "status": "1"
+    },
+    {
+      "id": "429",
+      "category": "14",
+      "description": "To keep potatoes from budding, place an apple in the bag with the potatoes.",
+      "status": "1"
+    },
+    {
+      "id": "428",
+      "category": "14",
+      "description": "Need to peel garlic cloves? Place them in an empty pot. Put the lid on and shake vigorously. Done",
+      "status": "1"
+    },
+    {
+      "id": "427",
+      "category": "14",
+      "description": "When adding ingredients to cocktails, always start with the cheapest. For example, add your citrus, then fruit juice, then alcohol.",
+      "status": "1"
+    }
+  ]
+}

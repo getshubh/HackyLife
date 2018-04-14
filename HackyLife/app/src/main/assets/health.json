@@ -1,0 +1,2387 @@
+{
+"health":
+[
+  {
+    "id": "426",
+    "category": "13",
+    "description": "Cold showers are healthier for you than hot showers.",
+    "status": "1"
+  },
+  {
+    "id": "425",
+    "category": "13",
+    "description": "Avoid eating raw or undercooked meats of any type.",
+    "status": "1"
+  },
+  {
+    "id": "424",
+    "category": "13",
+    "description": "Avoid heavy meals in the summer months, especially during hot days.",
+    "status": "1"
+  },
+  {
+    "id": "423",
+    "category": "13",
+    "description": "Pineapple juice is 5 times more effective than cough syrup at helping your throat.",
+    "status": "1"
+  },
+  {
+    "id": "422",
+    "category": "13",
+    "description": "Drink a cup of green tea before a workout will give you a big energy boost and help you burn up to 20% more calories!",
+    "status": "1"
+  },
+  {
+    "id": "421",
+    "category": "13",
+    "description": "Having a spoonful of lemon juice or honey before bed will help you fall asleep quicker!",
+    "status": "1"
+  },
+  {
+    "id": "420",
+    "category": "13",
+    "description": "Drink water between sips of coffee or tea to avoid yellowing teeth.",
+    "status": "1"
+  },
+  {
+    "id": "419",
+    "category": "13",
+    "description": "If you have a sore throat, eat a cucumber. It will cool it down and stop the itching.",
+    "status": "1"
+  },
+  {
+    "id": "418",
+    "category": "13",
+    "description": "Eating an orange before working out not only keeps you hydrated but also keeps your muscles from getting sore.",
+    "status": "1"
+  },
+  {
+    "id": "417",
+    "category": "13",
+    "description": "Drinking green tea before bed will help you burn more calories while you sleep.",
+    "status": "1"
+  },
+  {
+    "id": "416",
+    "category": "13",
+    "description": "To relieve headache, take a cloth and soak it in cold water. Place the cloth on your bare abdominal and rest.",
+    "status": "1"
+  },
+  {
+    "id": "415",
+    "category": "13",
+    "description": "Lemon juice with a pinch of salt (warm) every morning lowers cholesterol levels and brings down your weight.",
+    "status": "1"
+  },
+  {
+    "id": "414",
+    "category": "13",
+    "description": "Drinking green tea every day can help you lose weight around your stomach!",
+    "status": "1"
+  },
+  {
+    "id": "413",
+    "category": "13",
+    "description": "Sucking a piece of ice controls vomiting.",
+    "status": "1"
+  },
+  {
+    "id": "412",
+    "category": "13",
+    "description": "To help cool down in case of fever, put an ice cube on the veins of your wrist or neck.",
+    "status": "1"
+  },
+  {
+    "id": "410",
+    "category": "13",
+    "description": "Take a glass of grapefruit and lemon juice in equal parts to dispel fatigue and general tiredness.",
+    "status": "1"
+  },
+  {
+    "id": "409",
+    "category": "13",
+    "description": "Adding vodka to your shampoo can strengthen your hair, prevent dry scalp, and stop dandruff.",
+    "status": "1"
+  },
+  {
+    "id": "408",
+    "category": "13",
+    "description": "Drinking green tea before bed will allow your body to burn calories while sleeping. Green tea also increases your metabolism.",
+    "status": "1"
+  },
+  {
+    "id": "407",
+    "category": "13",
+    "description": "When doing sit-ups if you place your tongue on the roof of your mouth it will stop you from straining your neck.",
+    "status": "1"
+  },
+  {
+    "id": "406",
+    "category": "13",
+    "description": "Want to lose weight? Don\\'t eat anything 4 hours before you go to bed. It makes a huge difference.",
+    "status": "1"
+  },
+  {
+    "id": "405",
+    "category": "13",
+    "description": "Having a stomach ache? Take a hot shower and let the water hit your tummy. You\\'ll feel better fast!",
+    "status": "1"
+  },
+  {
+    "id": "404",
+    "category": "13",
+    "description": "Putting fruit in your water will help you kill your appetite!",
+    "status": "1"
+  },
+  {
+    "id": "403",
+    "category": "13",
+    "description": "Watermelons, cabbage, acai berries and almonds are great sources of antioxidants which boost immunity.",
+    "status": "1"
+  },
+  {
+    "id": "402",
+    "category": "13",
+    "description": "Rubbing strawberry on your teeth can give you a brighter smile as it contains Malic acid that can remove teeth stain.",
+    "status": "1"
+  },
+  {
+    "id": "401",
+    "category": "13",
+    "description": "A glass of beet juice a day for a few weeks is especially useful for teenagers, because it helps to control the overproduction of hormones.",
+    "status": "1"
+  },
+  {
+    "id": "399",
+    "category": "13",
+    "description": "Beware of late night eating!! All those calories just sit there unused and turn into fat while you sleep.",
+    "status": "1"
+  },
+  {
+    "id": "398",
+    "category": "13",
+    "description": "Cinnamon is a great spice that can be used to help ease an upset stomach, and it also boosts your metabolism.",
+    "status": "1"
+  },
+  {
+    "id": "397",
+    "category": "13",
+    "description": "When you exercise, wear all black. It will be like a funeral for your fat.",
+    "status": "1"
+  },
+  {
+    "id": "396",
+    "category": "13",
+    "description": "Lemon water helps clean the toxins out of our bodies. When you get rid of toxic waste in your system, your skin will show it first.",
+    "status": "1"
+  },
+  {
+    "id": "395",
+    "category": "13",
+    "description": "Stop thinking of reasons why you can\\'t and start thinking of reasons why you will.",
+    "status": "1"
+  },
+  {
+    "id": "394",
+    "category": "13",
+    "description": "Everything we do is based on habits. Once you get into the habit of exercising it will be hard to stop!",
+    "status": "1"
+  },
+  {
+    "id": "393",
+    "category": "13",
+    "description": "Egg yolks have tons of essential but hard-to-get nutrients, including choline, which is linked to lower rates of breast cancer.",
+    "status": "1"
+  },
+  {
+    "id": "392",
+    "category": "13",
+    "description": "Banana + teaspoon of peanut butter + teaspoon of honey + sprinkles of cinnamon = Amazing healthy snack!",
+    "status": "1"
+  },
+  {
+    "id": "391",
+    "category": "13",
+    "description": "Only diet shake you need is the one your booty makes when you\\'re exercising.",
+    "status": "1"
+  },
+  {
+    "id": "390",
+    "category": "13",
+    "description": "Fructose rapidly leads to weight gain and abdominal obesity, in other words, the dreaded \\\"beer belly\\\". So NOT hot!",
+    "status": "1"
+  },
+  {
+    "id": "389",
+    "category": "13",
+    "description": "Gluten causes inflammation in the body. Inflammation slows muscle recovery, impedes digestion, and causes hormonal imbalances.",
+    "status": "1"
+  },
+  {
+    "id": "388",
+    "category": "13",
+    "description": "Aloe vera juice can help moisturize the scalp without producing that oily feeling.",
+    "status": "1"
+  },
+  {
+    "id": "387",
+    "category": "13",
+    "description": "Add some spice to your foods. Spices contain Capsaicin, which speeds up your metabolism for a couple hours after you eat.",
+    "status": "1"
+  },
+  {
+    "id": "386",
+    "category": "13",
+    "description": "Decide every morning you\\'re in a good mood and you will be.",
+    "status": "1"
+  },
+  {
+    "id": "385",
+    "category": "13",
+    "description": "Eating a little something every few hours will prevent hunger from causing you to overeat, so be sure to eat a snack in between meals.",
+    "status": "1"
+  },
+  {
+    "id": "384",
+    "category": "13",
+    "description": "Watching funny movies can help lower your blood pressure. When you laugh for extended periods of time your blood vessels dilate.",
+    "status": "1"
+  },
+  {
+    "id": "383",
+    "category": "13",
+    "description": "MEN: Set your alarm at least 20 minutes early if you want morning sex. A woman won\\'t want sex if she\\'s hurried and it takes 20 to enjoy it.",
+    "status": "1"
+  },
+  {
+    "id": "382",
+    "category": "13",
+    "description": "The common recommendation for 8 glasses of water a day is for sedentary individuals.",
+    "status": "1"
+  },
+  {
+    "id": "381",
+    "category": "13",
+    "description": "Best cure for a hangover - pedialyte.",
+    "status": "1"
+  },
+  {
+    "id": "380",
+    "category": "13",
+    "description": "Exercising over an hour, choose a sports drink that is 5-8% carbs or 50-80 calories per 8 oz with 120-170 mg sodium.",
+    "status": "1"
+  },
+  {
+    "id": "379",
+    "category": "13",
+    "description": "Water will adequately replace any lost fluids for the average person exercising less than one hour.",
+    "status": "1"
+  },
+  {
+    "id": "378",
+    "category": "13",
+    "description": "Almonds are an excellent source of energy as well as nutrients.",
+    "status": "1"
+  },
+  {
+    "id": "377",
+    "category": "13",
+    "description": "Lat Pulldowns - don\\'t wrap your thumb around the bar. Place it on top, alongside your index finger, in order to better work your back.",
+    "status": "1"
+  },
+  {
+    "id": "376",
+    "category": "13",
+    "description": "Buy workout shoes late in the day. That\\'s when your feet are the largest. Make sure there\\'s a 1/2 in of space in front of your longest toe.",
+    "status": "1"
+  },
+  {
+    "id": "375",
+    "category": "13",
+    "description": "No runner\\'s diet is complete without plenty of hydration. Make sure to drink water before, during, and after a long run.",
+    "status": "1"
+  },
+  {
+    "id": "374",
+    "category": "13",
+    "description": "Timing is everything. Just as people should not scarf down a huge meal and jump in the pool, runners should not eat right before a run.",
+    "status": "1"
+  },
+  {
+    "id": "373",
+    "category": "13",
+    "description": "Avoid sit-ups with anchored feet, which can hurt your lower back.",
+    "status": "1"
+  },
+  {
+    "id": "372",
+    "category": "13",
+    "description": "Starting interval training: run all out for 1 min, walk for 2 min. Repeat 3 min interval 5 times for a 15 min, fat-blasting workout.",
+    "status": "1"
+  },
+  {
+    "id": "371",
+    "category": "13",
+    "description": "The optimal amount of sleep for most adults is seven to eight hours each night.",
+    "status": "1"
+  },
+  {
+    "id": "370",
+    "category": "13",
+    "description": "Due to its worldwide popularity, coffee is probably the greatest source of antioxidants in the global diet.",
+    "status": "1"
+  },
+  {
+    "id": "369",
+    "category": "13",
+    "description": "Coconut Water - low in calories, naturally far-free, more potassium than 4 bananas, and super hydrating.",
+    "status": "1"
+  },
+  {
+    "id": "368",
+    "category": "13",
+    "description": "Staying awake for 17 hours is the same for your body as drinking two glasses of wine.",
+    "status": "1"
+  },
+  {
+    "id": "367",
+    "category": "13",
+    "description": "Put your tongue on the roof of your mouth when you do crunches. It will help align your head properly, which helps reduce neck strain.",
+    "status": "1"
+  },
+  {
+    "id": "366",
+    "category": "13",
+    "description": "Red peppers have twice as much Vitamin C and nine times as much Vitamin A as green peppers.",
+    "status": "1"
+  },
+  {
+    "id": "365",
+    "category": "13",
+    "description": "Try to eat dinner at least 3 hours before going to sleep. This gives you enough time to digest so you can sleep better.",
+    "status": "1"
+  },
+  {
+    "id": "364",
+    "category": "13",
+    "description": "Singing increases lung capacity, corrects posture and improves mood. So belt it out!",
+    "status": "1"
+  },
+  {
+    "id": "363",
+    "category": "13",
+    "description": "Pink grapefruit has one of the highest concentrations of antioxidants. It is also packed with vitamin C which helps reduce blood sugar",
+    "status": "1"
+  },
+  {
+    "id": "362",
+    "category": "13",
+    "description": "Cook tomatoes with olive oil so that your body better absorbs their nutrients (lycopene).",
+    "status": "1"
+  },
+  {
+    "id": "361",
+    "category": "13",
+    "description": "If you feel your sweet tooth kicking in after lunch or dinner, grab an apple, orange, or some strawberries.",
+    "status": "1"
+  },
+  {
+    "id": "360",
+    "category": "13",
+    "description": "Regular aerobic exercise has been shown to reduce migraine attacks.",
+    "status": "1"
+  },
+  {
+    "id": "359",
+    "category": "13",
+    "description": "Corn is full of thiamin which increases your energy and boosts your brain power.",
+    "status": "1"
+  },
+  {
+    "id": "358",
+    "category": "13",
+    "description": "If you do not exercise regularly, by the time you are 65 you may experience as much as an 80% decrease in muscle strength.",
+    "status": "1"
+  },
+  {
+    "id": "357",
+    "category": "13",
+    "description": "Add wheat germ or flaxseeds to your yogurt. Wheat germ is packed with Vitamin E and flaxseeds have high levels of Omega-3.",
+    "status": "1"
+  },
+  {
+    "id": "356",
+    "category": "13",
+    "description": "When making boiled or mashed potatoes, leave the skin on. It contains way more nutrients than the inside.",
+    "status": "1"
+  },
+  {
+    "id": "355",
+    "category": "13",
+    "description": "Broccoli is a veggie powerhouse, containing tons of vitamin C and K, which keep your body at the top of its game.",
+    "status": "1"
+  },
+  {
+    "id": "354",
+    "category": "13",
+    "description": "Tomato is a superstar in the fruit and veggie pantheon. Tomatoes contain lycopene, a powerful cancer fighter. They are also rich in vitamin C.",
+    "status": "1"
+  },
+  {
+    "id": "353",
+    "category": "13",
+    "description": "Alcohol is 2-3 times more potent when you drink it while flying.",
+    "status": "1"
+  },
+  {
+    "id": "352",
+    "category": "13",
+    "description": "A good anti-aging diet should consist of 50% vegetables, 20% protein, 20% fruits, and 10% grains.",
+    "status": "1"
+  },
+  {
+    "id": "351",
+    "category": "13",
+    "description": "Quinoa is one of the most protein-rich foods we can eat. It is a complete protein containing all nine essential amino acids.",
+    "status": "1"
+  },
+  {
+    "id": "350",
+    "category": "13",
+    "description": "Foam rolling helps to increase blood flow and circulation, aiding healing and injury prevention. It should be a requirement post workout.",
+    "status": "1"
+  },
+  {
+    "id": "349",
+    "category": "13",
+    "description": "Superfoods for weight loss: avocados, salmon, grapefruit, almonds, green tea, quinoa, black beans, lentils.",
+    "status": "1"
+  },
+  {
+    "id": "348",
+    "category": "13",
+    "description": "To determine your water requirement, divide your weight (in pounds) by two. This gives the daily ounce-recommendation.",
+    "status": "1"
+  },
+  {
+    "id": "347",
+    "category": "13",
+    "description": "Make sure you have whole-grain bread, rice or pasta at least four times a week and you will reduce the chance of having cancer by 40 per cent.",
+    "status": "1"
+  },
+  {
+    "id": "346",
+    "category": "13",
+    "description": "Research suggests that the equivalent of a couple of glasses of wine a day may be good for health. It can also help you keep a good mental frame.",
+    "status": "1"
+  },
+  {
+    "id": "345",
+    "category": "13",
+    "description": "Make love: There is no better medicine than to have sex. people who have sex at least twice a week get protective boost from their immune systems. Of course it relaxes the mind.",
+    "status": "1"
+  },
+  {
+    "id": "344",
+    "category": "13",
+    "description": "Cut back on salt: Health Organisation recommend no more than five grams a day. Too much salt can lead to stroke and heart problems.",
+    "status": "1"
+  },
+  {
+    "id": "343",
+    "category": "13",
+    "description": "Asprin is a wonder drug: Asprin can actually do wonders. It helps to reduce the risk of conditions such as heart disease and cancers, including of the colon, oesophagus, stomach, rectum, prostrate. ",
+    "status": "1"
+  },
+  {
+    "id": "342",
+    "category": "13",
+    "description": "Learn to relax: Unwind, take up a hobby and start socialising. This fights stress and depression.",
+    "status": "1"
+  },
+  {
+    "id": "341",
+    "category": "13",
+    "description": "Never sleep over a backache: It is never advisable to sleep over a backache. Research shows that people who take to their beds with backache take the longest time to recover.",
+    "status": "1"
+  },
+  {
+    "id": "340",
+    "category": "13",
+    "description": "A garlic a day: Garlic is the mother of all cures. Researchers in Liverpool have found that 5ml of garlic extract lower levels of a disease-causing chemical by up to 48 percent.",
+    "status": "1"
+  },
+  {
+    "id": "339",
+    "category": "13",
+    "description": "Do not skip breakfast.",
+    "status": "1"
+  },
+  {
+    "id": "338",
+    "category": "13",
+    "description": "Chronic, excess alcohol consumption is the major cause of liver cirrhosis.",
+    "status": "1"
+  },
+  {
+    "id": "337",
+    "category": "13",
+    "description": "Avoid sunburns and sun exposure by using adequate skin protection; use brimmed hats, protective clothing, and sunscreen.",
+    "status": "1"
+  },
+  {
+    "id": "336",
+    "category": "13",
+    "description": "Use smoke detectors; avoid smoking in bed.",
+    "status": "1"
+  },
+  {
+    "id": "335",
+    "category": "13",
+    "description": "Napping for just 6 minutes can help to improve your memory.",
+    "status": "1"
+  },
+  {
+    "id": "334",
+    "category": "13",
+    "description": "Control portion sizes; eat the smallest portion that can satisfy hunger and then stop eating.",
+    "status": "1"
+  },
+  {
+    "id": "333",
+    "category": "13",
+    "description": "  A vegetarian lifestyle has been promoted for a healthy lifestyle and weight loss; vegetarians should check with their physicians to be sure they are getting enough vitamins, minerals, and iron in their food.",
+    "status": "1"
+  },
+  {
+    "id": "332",
+    "category": "13",
+    "description": "People trying to lose weight (body fat) should avoid all fatty and sugary foods and eat mainly vegetables, fruits, and nuts and markedly reduce his/her intake of meat and dairy products.",
+    "status": "1"
+  },
+  {
+    "id": "331",
+    "category": "13",
+    "description": "Regular exercise can help increase self-esteem and self-confidence, decrease stress and anxiety, enhance mood, and improve general mental health.",
+    "status": "1"
+  },
+  {
+    "id": "330",
+    "category": "13",
+    "description": "Stop smoking tobacco; start to stop today (it takes about 15 years of nonsmoking behavior to achieve a normal risk level for heart disease for those that smoke).",
+    "status": "1"
+  },
+  {
+    "id": "329",
+    "category": "13",
+    "description": "Almost any type of exercise (resistance, water aerobics, walking, swimming, weights, yoga, and many others) is helpful for everybody.",
+    "status": "1"
+  },
+  {
+    "id": "328",
+    "category": "13",
+    "description": "Snacks are OK in moderation and should consist of items like fruit, whole grains, or nuts to satisfy hunger and not cause excessive weight gain.",
+    "status": "1"
+  },
+  {
+    "id": "327",
+    "category": "13",
+    "description": "Do some mind exercises (read, do a puzzle occasionally during the week).",
+    "status": "1"
+  },
+  {
+    "id": "326",
+    "category": "13",
+    "description": "Children need exercise; play outside of the home is a good beginning.",
+    "status": "1"
+  },
+  {
+    "id": "325",
+    "category": "13",
+    "description": "Positive Emotions are good for your Heart. Be positive.",
+    "status": "1"
+  },
+  {
+    "id": "324",
+    "category": "13",
+    "description": "Cold showers are healthier for you than hot showers.",
+    "status": "1"
+  },
+  {
+    "id": "323",
+    "category": "13",
+    "description": "Avoid eating raw or undercooked meats of any type.",
+    "status": "1"
+  },
+  {
+    "id": "322",
+    "category": "13",
+    "description": "Almonds have high protein and unsaturated fat.",
+    "status": "1"
+  },
+  {
+    "id": "321",
+    "category": "13",
+    "description": " Popcorn has more antioxidants than fruits and vegetables! It is most healthy when air-popped. Avoid adding oil or butter.",
+    "status": "1"
+  },
+  {
+    "id": "320",
+    "category": "13",
+    "description": "Juice has too many calories. Study shows providing easily accessible water in school cafeterias was linked to reduced  weight.",
+    "status": "1"
+  },
+  {
+    "id": "319",
+    "category": "13",
+    "description": "Some think that if hair is frequently blocking the view of one eye, it may lead to an eye squint. No proof of that at all.",
+    "status": "1"
+  },
+  {
+    "id": "318",
+    "category": "13",
+    "description": "As we get older we may need help to move. Studies show you can reduce that need by half if you do regular exercise from now.",
+    "status": "1"
+  },
+  {
+    "id": "317",
+    "category": "13",
+    "description": "If your baby has a fever do not suppose it is from teething, it may go up a bit from teething but rarely >38 degrees Celcius.",
+    "status": "1"
+  },
+  {
+    "id": "316",
+    "category": "13",
+    "description": "Many now consider Botox for migraines. Studies show it is helpful in daily headaches, not so much in episodic ones.",
+    "status": "1"
+  },
+  {
+    "id": "315",
+    "category": "13",
+    "description": "To avoid getting hypertension, the best thing you can do is keep your weight normal. Lose the extra weight before it`s too late.",
+    "status": "1"
+  },
+  {
+    "id": "314",
+    "category": "13",
+    "description": "Less anger, More laughter. Less worry, More Sleep.",
+    "status": "1"
+  },
+  {
+    "id": "313",
+    "category": "13",
+    "description": "Less Soda, More Water. Less meat, More vegetables.",
+    "status": "1"
+  },
+  {
+    "id": "312",
+    "category": "13",
+    "description": "Many studies show that injecting steroids (cortisone) in the back for nerve back pain is useless. Try physiotherapy instead.",
+    "status": "1"
+  },
+  {
+    "id": "311",
+    "category": "13",
+    "description": "Heart tests like Tredmill test and CT angiogram are meant for people with symptoms. Without symptoms, they are not recommended.",
+    "status": "1"
+  },
+  {
+    "id": "310",
+    "category": "13",
+    "description": "Many smokers try to quit smoking gradually instead of abruptly. Success rate for gradual quitting is poor and is not advised.",
+    "status": "1"
+  },
+  {
+    "id": "309",
+    "category": "13",
+    "description": "Eat banana, it improves nerve function.",
+    "status": "1"
+  },
+  {
+    "id": "308",
+    "category": "13",
+    "description": "If someone is unconscious without a pulse, do chest compressions on him till help arrives. This saves lives-yet only 8% do it.",
+    "status": "1"
+  },
+  {
+    "id": "307",
+    "category": "13",
+    "description": "Many believe dizziness could be due to middle ear problems. False. It is the inner ear problems that causes dizziness (vertigo).",
+    "status": "1"
+  },
+  {
+    "id": "306",
+    "category": "13",
+    "description": "Broccoli promotes healthy bone.",
+    "status": "1"
+  },
+  {
+    "id": "305",
+    "category": "13",
+    "description": "Broccoli fights Birth defects.",
+    "status": "1"
+  },
+  {
+    "id": "304",
+    "category": "13",
+    "description": "Apple boosts your immune system, reduce bad cholesterol from the body.",
+    "status": "1"
+  },
+  {
+    "id": "303",
+    "category": "13",
+    "description": "Eat more apples they protects heart, improves weight loss.",
+    "status": "1"
+  },
+  {
+    "id": "302",
+    "category": "13",
+    "description": "Cherries are helpful for those with arthritis.",
+    "status": "1"
+  },
+  {
+    "id": "301",
+    "category": "13",
+    "description": "Avocado are the great source of pottassium.",
+    "status": "1"
+  },
+  {
+    "id": "300",
+    "category": "13",
+    "description": "Drinking a glass of water before shower helps prevent high blood pressure.",
+    "status": "1"
+  },
+  {
+    "id": "299",
+    "category": "13",
+    "description": "Champix (varenicline) improves your chances of quitting smoking by 2-3 times. Try it for 6 months: 3 before stopping, 3 after.",
+    "status": "1"
+  },
+  {
+    "id": "298",
+    "category": "13",
+    "description": "Drinking a glass of water before meal will help in digestion.",
+    "status": "1"
+  },
+  {
+    "id": "297",
+    "category": "13",
+    "description": "Dark chocolate (70% cocoa) eaten regularly reduces cholesterol by 6 mg/dL + reduce systolic blood pressure by 3.2 mmHg.",
+    "status": "1"
+  },
+  {
+    "id": "296",
+    "category": "13",
+    "description": "Richest people in the US live 10-15 years longer than the poorest. The difference is due to health behavior, NOT care quality.",
+    "status": "1"
+  },
+  {
+    "id": "295",
+    "category": "13",
+    "description": "Are you getting a lot of mouth ulcers? Avoid eating nuts and seeds, change your toothpaste and check your teeth at the dentist.",
+    "status": "1"
+  },
+  {
+    "id": "294",
+    "category": "13",
+    "description": "Broccoli fights Diabetes.",
+    "status": "1"
+  },
+  {
+    "id": "293",
+    "category": "13",
+    "description": "Ginseng and soy supplements do not improve memory or brain function. Exercise is still our best option.",
+    "status": "1"
+  },
+  {
+    "id": "292",
+    "category": "13",
+    "description": "If you have high blood pressure, feeling well does NOT mean that your blood pressure is under good control. Measure it weekly.",
+    "status": "1"
+  },
+  {
+    "id": "291",
+    "category": "13",
+    "description": "Many get worried that cholesterol lowering drugs cause liver disease if taken for a long time (accumulative effect). Not true.",
+    "status": "1"
+  },
+  {
+    "id": "290",
+    "category": "13",
+    "description": "Fat burning foods: grapefruit, watermelon, berries, hot peppers, celery, greek yogurt, eggs, fish, green tea, coffee, water, oatmeal.",
+    "status": "1"
+  },
+  {
+    "id": "289",
+    "category": "13",
+    "description": "Drinking ice water burns about 1 calorie per ounce.",
+    "status": "1"
+  },
+  {
+    "id": "288",
+    "category": "13",
+    "description": "Take vitamin and mineral supplements only as an insurance policy - they are not a substitute for good food. Most people eat more than enough food to meet nutrient requirements.",
+    "status": "1"
+  },
+  {
+    "id": "287",
+    "category": "13",
+    "description": "There are currently over 1.6 billion overweight people in the   world. Don\\'t contribute to that statistic!",
+    "status": "1"
+  },
+  {
+    "id": "286",
+    "category": "13",
+    "description": "Lamb, chicken and turkey breast closely follow with 36g and 33g of   protein per 100g respectively.",
+    "status": "1"
+  },
+  {
+    "id": "285",
+    "category": "13",
+    "description": "Lettuce and cucumber are the lowest calorie vegetables, both with 15 calories per 100 grams.",
+    "status": "1"
+  },
+  {
+    "id": "284",
+    "category": "13",
+    "description": "The average can of soda contains roughly 10 teaspoons of sugar, don\\'t get into bad habits!",
+    "status": "1"
+  },
+  {
+    "id": "283",
+    "category": "13",
+    "description": "Studies show that the best sleeping position for the body is on your back.",
+    "status": "1"
+  },
+  {
+    "id": "282",
+    "category": "13",
+    "description": "Those that consume over 10 alcoholic beverages a week double their risk of Type 2 Diabetes.",
+    "status": "1"
+  },
+  {
+    "id": "281",
+    "category": "13",
+    "description": "Studies show that HIIT (High Intensity Interval Training) can actually help alleviate anxiety.",
+    "status": "1"
+  },
+  {
+    "id": "280",
+    "category": "13",
+    "description": "Drastic calorie-cutting diets can slow down your metabolism and actually reduce weight loss in the long-term.",
+    "status": "1"
+  },
+  {
+    "id": "279",
+    "category": "13",
+    "description": "Poor sleep causes high production of the hormone Ghrelin which makes you feel hungry, generally leading to weight gain.",
+    "status": "1"
+  },
+  {
+    "id": "278",
+    "category": "13",
+    "description": "40% of your overall happiness depends on your internal state of mind. Be positive!",
+    "status": "1"
+  },
+  {
+    "id": "277",
+    "category": "13",
+    "description": "Stretching before physical activity can help to reduce the risk of injury by up to 81%.",
+    "status": "1"
+  },
+  {
+    "id": "276",
+    "category": "13",
+    "description": "Peppers are rich in Vitamin A which contributes to healthy, glowing skin.",
+    "status": "1"
+  },
+  {
+    "id": "275",
+    "category": "13",
+    "description": "The most hydrating vegetable is cucumber which is 96% water.",
+    "status": "1"
+  },
+  {
+    "id": "274",
+    "category": "13",
+    "description": "Walking 20 minutes a day can cut your risk of having a stroke by 57%.",
+    "status": "1"
+  },
+  {
+    "id": "273",
+    "category": "13",
+    "description": "Having a pet to look after can reduce depression by 47%.",
+    "status": "1"
+  },
+  {
+    "id": "272",
+    "category": "13",
+    "description": "Eating one or two crushed cloves of garlic a day is a popular remedy for reducing high blood pressure.",
+    "status": "1"
+  },
+  {
+    "id": "271",
+    "category": "13",
+    "description": "It takes 43 muscles to frown, but only 17 muscles to smile. Smile more!",
+    "status": "1"
+  },
+  {
+    "id": "270",
+    "category": "13",
+    "description": "Over 40% of American adults find jogging as the most enjoyable method of weight loss. Don\\'t knock it until you try it!",
+    "status": "1"
+  },
+  {
+    "id": "269",
+    "category": "13",
+    "description": "Goji berries are alleged to boost the immune system, increase brain activity, improve life expectancy, and protect against heart disease.",
+    "status": "1"
+  },
+  {
+    "id": "268",
+    "category": "13",
+    "description": "Lychees have been proven to be able to remedy headaches. Give it a try!",
+    "status": "1"
+  },
+  {
+    "id": "267",
+    "category": "13",
+    "description": "The healthiest hobby is actually dancing. Don\\'t knock it until you try it!",
+    "status": "1"
+  },
+  {
+    "id": "266",
+    "category": "13",
+    "description": "Physical inactivity is the main cause for roughly a quarter of breast and colon cancer occurrences.",
+    "status": "1"
+  },
+  {
+    "id": "265",
+    "category": "13",
+    "description": "In the short-term, the best way to reduce anxiety is by taking long, deep breaths.",
+    "status": "1"
+  },
+  {
+    "id": "264",
+    "category": "13",
+    "description": "The Global Massage Institute recommend a massage roughly once a month for optimum benefits.",
+    "status": "1"
+  },
+  {
+    "id": "263",
+    "category": "13",
+    "description": "Physical activity has been proven to improve students\\' academic performances.",
+    "status": "1"
+  },
+  {
+    "id": "262",
+    "category": "13",
+    "description": "Studies have shown that trees and green space are a major contributor to increased life expectancy. Dedicate some time to be with nature!",
+    "status": "1"
+  },
+  {
+    "id": "261",
+    "category": "13",
+    "description": "10 people die every minute from a tobacco-related disease.",
+    "status": "1"
+  },
+  {
+    "id": "260",
+    "category": "13",
+    "description": "Working lot on computer? Take a break every 20 minutes to stretch ur arms, back & neck.",
+    "status": "1"
+  },
+  {
+    "id": "259",
+    "category": "13",
+    "description": "Bananas are a healthy and low fat snack as they are 99.5% fat free.",
+    "status": "1"
+  },
+  {
+    "id": "258",
+    "category": "13",
+    "description": "The body needs to be exposed to the sun at least three times a week in over 5 minute durations to experience the associated health benefits.",
+    "status": "1"
+  },
+  {
+    "id": "257",
+    "category": "13",
+    "description": "An old folk tale to cure diarrhoea is to eat a tea spoon of Greek/ Turkish coffee granules mixed with pure lemon juice. Try it!",
+    "status": "1"
+  },
+  {
+    "id": "256",
+    "category": "13",
+    "description": "Gardening is a very therapeutic activity, proved to alleviate depression by up to 33%.",
+    "status": "1"
+  },
+  {
+    "id": "255",
+    "category": "13",
+    "description": "Strawberries are one of the highest Vitamin C containing foods. They are also high in fibre and antioxidants.",
+    "status": "1"
+  },
+  {
+    "id": "254",
+    "category": "13",
+    "description": "A tasty and easy source to access a variety of important vitamins is multivitamin gummy sweets.",
+    "status": "1"
+  },
+  {
+    "id": "253",
+    "category": "13",
+    "description": "Do your walking lunges with a back heel raise to REALLY train the booty.",
+    "status": "1"
+  },
+  {
+    "id": "252",
+    "category": "13",
+    "description": "Have fun when you workout and it won\\'t feel like work.",
+    "status": "1"
+  },
+  {
+    "id": "251",
+    "category": "13",
+    "description": "Researchers have found that dieters who eat eggs in the morning are less hungry than those who ate carb-heavy meals.",
+    "status": "1"
+  },
+  {
+    "id": "250",
+    "category": "13",
+    "description": "Have yogurt everyday as it is a storehouse of calcium, and also helps you burn fat.",
+    "status": "1"
+  },
+  {
+    "id": "249",
+    "category": "13",
+    "description": "Foods that contain these words are usually BAD: fried, battered, buttery, creamy, crispy, cheesy, thick, breaded, smothered, glazed.",
+    "status": "1"
+  },
+  {
+    "id": "248",
+    "category": "13",
+    "description": "If you\\'re hungry 30 minutes after a meal, that means you might be dehydrated. Drink water.",
+    "status": "1"
+  },
+  {
+    "id": "247",
+    "category": "13",
+    "description": "Feeling irritable and confused? Try drinking a glass of fresh fruit juice to give a quick boost to thinking and concentration.",
+    "status": "1"
+  },
+  {
+    "id": "246",
+    "category": "13",
+    "description": "There is an approximately 30% lower risk of colon cancer for adults participating in daily physical activity.",
+    "status": "1"
+  },
+  {
+    "id": "245",
+    "category": "13",
+    "description": "Walking regularly has been proven to reduce risk of incident osteoarthritis by up to 83%.",
+    "status": "1"
+  },
+  {
+    "id": "244",
+    "category": "13",
+    "description": "Eggs are one of the best foods for healthy hair as they contain a lot of protein which is a major component of human hair.",
+    "status": "1"
+  },
+  {
+    "id": "243",
+    "category": "13",
+    "description": "It is estimated that 850,000 people in the UK have diabetes but is undiagnosed. Get yourself checked just to be certain.",
+    "status": "1"
+  },
+  {
+    "id": "242",
+    "category": "13",
+    "description": "Oregano is able to neutralise carcinogens to slow the spread of cancerous cells and reduction in size of tumours.",
+    "status": "1"
+  },
+  {
+    "id": "241",
+    "category": "13",
+    "description": "Exercising with opposite gender partners have been proven to increase performance.",
+    "status": "1"
+  },
+  {
+    "id": "240",
+    "category": "13",
+    "description": "Dance music has been proven to result in the highest accuracy and fastest performance across a range of work tasks.",
+    "status": "1"
+  },
+  {
+    "id": "239",
+    "category": "13",
+    "description": "Studies have proven that drinking warm water when you feel hot actually cools your body temperature down more than cold water.",
+    "status": "1"
+  },
+  {
+    "id": "238",
+    "category": "13",
+    "description": "Drinking water has actually been proved to effectively relieve bloating.",
+    "status": "1"
+  },
+  {
+    "id": "237",
+    "category": "13",
+    "description": "Completely banning all favourite foods is a top cause of failed diet plans. It is better to target taking small portions about once a week. ",
+    "status": "1"
+  },
+  {
+    "id": "236",
+    "category": "13",
+    "description": "Lower weights with more reps improves endurance, whereas higher weights with less reps improves strength and builds more muscle.",
+    "status": "1"
+  },
+  {
+    "id": "235",
+    "category": "13",
+    "description": "To have good dental hygiene, it is advised to not brush your teeth immediately after eating as it rubs the food\\'s acidity into your teeth.",
+    "status": "1"
+  },
+  {
+    "id": "234",
+    "category": "13",
+    "description": "Do Pilates regularly. The exercises work the deepest stomach muscle, the transversus abdominus, which has perhaps the greatest bearing on the shape of your midriff.",
+    "status": "1"
+  },
+  {
+    "id": "233",
+    "category": "13",
+    "description": "Focus on your breathing and posture while gently contracting your stomach muscles throughout the day. It maintains and strengthens the abdominal region.",
+    "status": "1"
+  },
+  {
+    "id": "232",
+    "category": "13",
+    "description": "Stand up straight. Shoulders back, abdominal muscles pulled in, pelvis tilted forward. Walk and move with better posture and the habit will stick.",
+    "status": "1"
+  },
+  {
+    "id": "231",
+    "category": "13",
+    "description": "Very low calorie diet for rapid weight loss is not recommended for breastfeeding mothers as it can adversely affect milk production.",
+    "status": "1"
+  },
+  {
+    "id": "230",
+    "category": "13",
+    "description": "You can burn 211 calories in just 15 minutes of jump roping.",
+    "status": "1"
+  },
+  {
+    "id": "229",
+    "category": "13",
+    "description": "Be careful of drinking juices. Many contain high sugar and can ruin your diet. Drink in moderation.",
+    "status": "1"
+  },
+  {
+    "id": "228",
+    "category": "13",
+    "description": "Boil water and add juice of half a lemon, and drink while hot, not boiling! This hot drink cleanses some of toxins in your body.",
+    "status": "1"
+  },
+  {
+    "id": "227",
+    "category": "13",
+    "description": "Olives: Can prevent heart attack, stroke , cancer, rheumatoid arthritis, and migraine headaches.",
+    "status": "1"
+  },
+  {
+    "id": "226",
+    "category": "13",
+    "description": "Don\\'t drink your calories...eat them! Stick to water.",
+    "status": "1"
+  },
+  {
+    "id": "225",
+    "category": "13",
+    "description": "For people with sore knees, cycling is the ideal exercise.",
+    "status": "1"
+  },
+  {
+    "id": "224",
+    "category": "13",
+    "description": "Long term exercise improves the respiratory system as it strengthens the diaphragm, and elevates the number of alveoli and breathing rate.",
+    "status": "1"
+  },
+  {
+    "id": "222",
+    "category": "13",
+    "description": "The annual cost of being overweight is $524 for women and $432 for men.",
+    "status": "1"
+  },
+  {
+    "id": "221",
+    "category": "13",
+    "description": "The ideal length of time that you should brush your teeth for is 2 minutes.",
+    "status": "1"
+  },
+  {
+    "id": "220",
+    "category": "13",
+    "description": "Professional hair stylists generally recommend washing your hair 2/3 times a week.",
+    "status": "1"
+  },
+  {
+    "id": "219",
+    "category": "13",
+    "description": "Avoid eating a large meal before sleeping to decrease gastroesophageal reflex and weight gain.",
+    "status": "1"
+  },
+  {
+    "id": "218",
+    "category": "13",
+    "description": "Instead of catching up with a friend over coffee, go 4 a walk or hike instead.",
+    "status": "1"
+  },
+  {
+    "id": "217",
+    "category": "13",
+    "description": "Grapefruit is one of the best fat burning foods out there.",
+    "status": "1"
+  },
+  {
+    "id": "216",
+    "category": "13",
+    "description": "The caffeine in one cup of coffee delivers a 16% metabolism boost! Beware of sugar and cream!!!",
+    "status": "1"
+  },
+  {
+    "id": "215",
+    "category": "13",
+    "description": "Stand maintaining a good posture as it enhances the way you look and protects you from shoulder and back pain.",
+    "status": "1"
+  },
+  {
+    "id": "214",
+    "category": "13",
+    "description": "Cherries help calm your nervous system, Grapes relaxes your blood vessels.",
+    "status": "1"
+  },
+  {
+    "id": "213",
+    "category": "13",
+    "description": "Coconut water is a great sports drink! It replenishes your electrolytes.",
+    "status": "1"
+  },
+  {
+    "id": "212",
+    "category": "13",
+    "description": "30% gym, 70% diet. Abs are made in the kitchen, not in the gym.",
+    "status": "1"
+  },
+  {
+    "id": "211",
+    "category": "13",
+    "description": "The healthiest rated vegetable is kale, followed by spinach.",
+    "status": "1"
+  },
+  {
+    "id": "210",
+    "category": "13",
+    "description": "One of the best weight loss tips is to not get used to eating when bored or sad, instead find a healthier habit such as reading or boxing.",
+    "status": "1"
+  },
+  {
+    "id": "209",
+    "category": "13",
+    "description": "Get used to doing some mind exercises such as puzzles and meditation occasionally during the week.",
+    "status": "1"
+  },
+  {
+    "id": "208",
+    "category": "13",
+    "description": "A chemical called oxytocin is released when people cuddle which helps to heal physical wounds.",
+    "status": "1"
+  },
+  {
+    "id": "207",
+    "category": "13",
+    "description": "Sleep deprivation affects the brain in multiple ways that can impair judgement and slow reactions.",
+    "status": "1"
+  },
+  {
+    "id": "206",
+    "category": "13",
+    "description": "Oranges help maintain great skin and vision, watermelon helps control your heart rate.",
+    "status": "1"
+  },
+  {
+    "id": "205",
+    "category": "13",
+    "description": "Studies suggest that farting actually helps to reduce high blood pressure.",
+    "status": "1"
+  },
+  {
+    "id": "204",
+    "category": "13",
+    "description": "Vegetarians on average have an IQ five points higher than those who regularly eat meat, according to research.",
+    "status": "1"
+  },
+  {
+    "id": "203",
+    "category": "13",
+    "description": "Sleeping With Weighted Blankets Improves Your Mental Health, reduces stress, Insomnia and Anxiety, Study Finds.",
+    "status": "1"
+  },
+  {
+    "id": "202",
+    "category": "13",
+    "description": "If a man pees on a pregnancy test and it shows up as positive, it may be a sign of testicular cancer.",
+    "status": "1"
+  },
+  {
+    "id": "200",
+    "category": "13",
+    "description": "A new study of over 1 million people finds that One hour of physical activity per day could offset health risk of 8 hours of sitting.",
+    "status": "1"
+  },
+  {
+    "id": "199",
+    "category": "13",
+    "description": "Avoid caffeinated beverages before your walk, they cause you to lose fluid, making you thirstier as well as making you take inconvenient stops along the way .",
+    "status": "1"
+  },
+  {
+    "id": "198",
+    "category": "13",
+    "description": "Laugh a lot - believe it or not it strengthens your tummy muscles and relaxes knotted muscles.",
+    "status": "1"
+  },
+  {
+    "id": "197",
+    "category": "13",
+    "description": "Regular activity such as walking, and massage can help unlock tightened muscles that affect your posture.",
+    "status": "1"
+  },
+  {
+    "id": "196",
+    "category": "13",
+    "description": "In case you are on Insulin; make sure, you have three proper meals with light snacks in between.",
+    "status": "1"
+  },
+  {
+    "id": "195",
+    "category": "13",
+    "description": "Reduce the amount of saturated, or animal, fat you consume. Saturated fats should make up no more than 10 per cent of total calories.",
+    "status": "1"
+  },
+  {
+    "id": "194",
+    "category": "13",
+    "description": "Keep alcohol intakes within sensible boundaries. Safe weekly limits are 21 units for men and 14 for women - one unit is the equivalent to a glass of wine or half a pint of beer.",
+    "status": "1"
+  },
+  {
+    "id": "193",
+    "category": "13",
+    "description": "Grandmothers who smoke while pregnant are more likely to have grandchildren with asthma,even when mothers don\\'t smoke during pregnancy.",
+    "status": "1"
+  },
+  {
+    "id": "192",
+    "category": "13",
+    "description": "Have a varied diet. Look for different, brightly coloured fruits and vegetables which generally provide plenty of nutrients.",
+    "status": "1"
+  },
+  {
+    "id": "191",
+    "category": "13",
+    "description": "Eat more fish. It is the omega 3 fatty acis in fish oils that are thought to make the Mediterranean diet more healthy and protect against heart disease and raised cholesterol levels.",
+    "status": "1"
+  },
+  {
+    "id": "190",
+    "category": "13",
+    "description": "Drink around 1.5 to 2 litres of liquid, not necessarily water, every day. This will ensure the kidneys stay healthy and help prevent urinary infections.",
+    "status": "1"
+  },
+  {
+    "id": "189",
+    "category": "13",
+    "description": "Eat plenty of fibre-rich food such as brown bread, pulses and cereals. Fibre helps keep the digestive system in order. It also reduces the risk of bowel cancer.",
+    "status": "1"
+  },
+  {
+    "id": "188",
+    "category": "13",
+    "description": "Source of Protein: Chicken, Turkey, Salmon, Eggs, Greek Yogurt, Tuna, White Fish, Lean GrassFed Red Meat, Whey Protein Powder, Cottage Cheese.",
+    "status": "1"
+  },
+  {
+    "id": "186",
+    "category": "13",
+    "description": "Keep CALM and take care of yourself.",
+    "status": "1"
+  },
+  {
+    "id": "185",
+    "category": "13",
+    "description": "Have a greater variety of food. Variety means no excess of anything and more nutrients. Eat three different foods at every meal.",
+    "status": "1"
+  },
+  {
+    "id": "184",
+    "category": "13",
+    "description": "Best sleeping time is 10 pm to 4 am.",
+    "status": "1"
+  },
+  {
+    "id": "183",
+    "category": "13",
+    "description": "Taking medicine with cold water is not recommended.",
+    "status": "1"
+  },
+  {
+    "id": "182",
+    "category": "13",
+    "description": "Do not eat heavy meals after 5 pm.",
+    "status": "1"
+  },
+  {
+    "id": "181",
+    "category": "13",
+    "description": "1 apple a day - No doctor, 1 Tulsi leaf a day - No cancer, 1 Lemon a day - No Fat.",
+    "status": "1"
+  },
+  {
+    "id": "180",
+    "category": "13",
+    "description": "Take care of your teeth. Floss and brush your teeth twice a day at least.",
+    "status": "1"
+  },
+  {
+    "id": "179",
+    "category": "13",
+    "description": "For sore muscles and joints, apply a cream or ointment that   contains capsaicin, the active ingredient in chile peppers, two  or three times a day.",
+    "status": "1"
+  },
+  {
+    "id": "178",
+    "category": "13",
+    "description": "Eat Bananas .People whose diets are rich in potassium may be less prone to high blood pressure.",
+    "status": "1"
+  },
+  {
+    "id": "177",
+    "category": "13",
+    "description": "If you suffer from dry eyes, up your seafood intake. Salmon,   sardines, and mackerel contain omega-3 fatty acids, which the body uses to produce tears, among other things.",
+    "status": "1"
+  },
+  {
+    "id": "176",
+    "category": "13",
+    "description": "The volatile oils in ginger have long made it a useful herbal remedy for nasal and chest congestion. ",
+    "status": "1"
+  },
+  {
+    "id": "175",
+    "category": "13",
+    "description": "To be more mindful, find a quiet place, set a timer and spend 15 minutes focusing on your breathing.",
+    "status": "1"
+  },
+  {
+    "id": "174",
+    "category": "13",
+    "description": "Everyone has a unique tongue print, just like fingerprints.",
+    "status": "1"
+  },
+  {
+    "id": "173",
+    "category": "13",
+    "description": "2 ounces of Wheatgrass is the equivalent to eating 4 pounds of green vegetables.",
+    "status": "1"
+  },
+  {
+    "id": "172",
+    "category": "13",
+    "description": "It is better not to eat standing up.",
+    "status": "1"
+  },
+  {
+    "id": "171",
+    "category": "13",
+    "description": "Spinach are anti - imflammatory, they also improves vision.",
+    "status": "1"
+  },
+  {
+    "id": "170",
+    "category": "13",
+    "description": "Eat blueberries to cure headache, Sniff an Apple to stop Migraine.",
+    "status": "1"
+  },
+  {
+    "id": "169",
+    "category": "13",
+    "description": "Your job won't take care of you when you are sick, your friends will. Stay in touch.",
+    "status": "1"
+  },
+  {
+    "id": "168",
+    "category": "13",
+    "description": "When you prepare a meal, get in the habit of putting things away as you use them and clean as you go.",
+    "status": "1"
+  },
+  {
+    "id": "167",
+    "category": "13",
+    "description": "Every day, brainstorm some kind act or gift you can offer your loved one unconditionally. Its good for your health.",
+    "status": "1"
+  },
+  {
+    "id": "166",
+    "category": "13",
+    "description": "Just now put down your phone and spend five minutes mentally reliving a happy memory including as much detail as you can remember :)",
+    "status": "1"
+  },
+  {
+    "id": "165",
+    "category": "13",
+    "description": "Once you are aware of your negative thought patterns, practice interrupting the thoughts and thinking or doing something positive.",
+    "status": "1"
+  },
+  {
+    "id": "164",
+    "category": "13",
+    "description": "Begin a practice of eating more mindfully and slowly. Take twice as long to eat your meal.",
+    "status": "1"
+  },
+  {
+    "id": "163",
+    "category": "13",
+    "description": "Once or twice a week, eat a 100% plant-based dinner.",
+    "status": "1"
+  },
+  {
+    "id": "162",
+    "category": "13",
+    "description": "Substitute one unhealthy food choice for a healthy food i.e.  instead of snacking on chips, eat carrots with hummus.",
+    "status": "1"
+  },
+  {
+    "id": "161",
+    "category": "13",
+    "description": "Park your car farther away from entrances to work or stores. Walking is good for health.",
+    "status": "1"
+  },
+  {
+    "id": "160",
+    "category": "13",
+    "description": "Learn to do stretching exercises when you wake up. It boosts circulation and digestion, and eases back pain.",
+    "status": "1"
+  },
+  {
+    "id": "159",
+    "category": "13",
+    "description": "Have arthritis related ache/pain? Mix 2 cups of Quaker Oats and 1 cup of water in a bowl and microwave for 1 minute. Apply to your hands for instant soothing relief.",
+    "status": "1"
+  },
+  {
+    "id": "158",
+    "category": "13",
+    "description": "Eating a spoonful of peanut butter before bed helps you burn more calories while you sleep.",
+    "status": "1"
+  },
+  {
+    "id": "157",
+    "category": "13",
+    "description": "Packing a sandwich for lunch? Wrap it in paper towel before placing it in a plastic bag. This will keep your sandwich from getting soggy especially on those humid summer days!",
+    "status": "1"
+  },
+  {
+    "id": "156",
+    "category": "13",
+    "description": "Killer hangover? Try eating an apple with your breakfast. It's a very effective hangover cure, and also reduces alcohol cravings and withdrawal side effects.",
+    "status": "1"
+  },
+  {
+    "id": "155",
+    "category": "13",
+    "description": "Cream Soda + Fireball Whisky tastes exactly like a cinnamon bun!",
+    "status": "1"
+  },
+  {
+    "id": "154",
+    "category": "13",
+    "description": "Sitting on a medicine ball instead of a chair while doing work can improve your focus and productivity by 50%.",
+    "status": "1"
+  },
+  {
+    "id": "153",
+    "category": "13",
+    "description": "Sick of the jelly soaking through your PB&J? Spread peanut butter on both sides of the bread and put the jelly in the middle. BOOM! Problem solved.",
+    "status": "1"
+  },
+  {
+    "id": "152",
+    "category": "13",
+    "description": "Microwave a Nature Valley bar for 30 seconds to prevent crumbs when you eat it.",
+    "status": "1"
+  },
+  {
+    "id": "151",
+    "category": "13",
+    "description": "Popcorn contains more antioxidants than most fruits and vegetables.",
+    "status": "1"
+  },
+  {
+    "id": "149",
+    "category": "13",
+    "description": "Walnuts have high levels of l-arginine (an amino acid) glutathione, and omega-3 fatty acids which help to cleanse the liver of disease-causing ammonia.",
+    "status": "1"
+  },
+  {
+    "id": "148",
+    "category": "13",
+    "description": "Grapefruit boosts detoxification enzymes in the liver and has a flavonoid compound known as naringenin which causes the liver to burn fat rather than store it.",
+    "status": "1"
+  },
+  {
+    "id": "146",
+    "category": "13",
+    "description": "Fatty red meat, deep fried food, and processed fats should all be avoided, as they can clog up your liver. Processed fats include margarine, shortening, and hydrogenated oils.",
+    "status": "1"
+  },
+  {
+    "id": "145",
+    "category": "13",
+    "description": "Fasting is a sure-fire ways to cleanse the liver. Most fasts involve eating only fruits and vegetables, or drinking only fruit and veggie juices, for a certain period of time.",
+    "status": "1"
+  },
+  {
+    "id": "144",
+    "category": "13",
+    "description": "Drink lemon juice in water or tea once a day. Lemon juice stimulates the liver's bile production to help push toxins out.",
+    "status": "1"
+  },
+  {
+    "id": "143",
+    "category": "13",
+    "description": "Detoxify your liver and flush toxins out by drinking at least 2 quarts of water every day. Drinking lots of water will keep you hydrated, which naturally encourages cell regeneration.",
+    "status": "1"
+  },
+  {
+    "id": "142",
+    "category": "13",
+    "description": "Alcohol and caffeine are two of the biggest culprits that deposit toxins in your liver and keep it from functioning properly. Cleanse your liver by reducing your intake of alcohol and caffeinated beverages.",
+    "status": "1"
+  },
+  {
+    "id": "141",
+    "category": "13",
+    "description": "Laughter makes us feel good. Don't be afraid to laugh out loud at a joke, a funny movie or a comic strip, even when we're alone.",
+    "status": "1"
+  },
+  {
+    "id": "140",
+    "category": "13",
+    "description": "Your body absorbs nutrients from real food better than from supplements, so it is important to get vitamins from food even if you take a vitamin pill.",
+    "status": "1"
+  },
+  {
+    "id": "139",
+    "category": "13",
+    "description": "You should certainly avoid smoking yourself for many health reasons, but even being around other people who are smoking can decrease your immune function.",
+    "status": "1"
+  },
+  {
+    "id": "135",
+    "category": "13",
+    "description": "Limit TV, video game and computer time - These habits lead to a sedentary lifestyle and excessive snacking, which increase risks for obesity and cardiovascular disease.",
+    "status": "1"
+  },
+  {
+    "id": "134",
+    "category": "13",
+    "description": "To keep your heart in shape, do cardio. One particularly effective way to improve your cardiovascular health is to do interval training, which means alternating between low- and high-intensity activity.",
+    "status": "1"
+  },
+  {
+    "id": "133",
+    "category": "13",
+    "description": "One of the absolute most important ways of improving the quality of your sleep is to do it in complete darkness, as even small amounts of light interfere with the chemicals that tell your body to rest.",
+    "status": "1"
+  },
+  {
+    "id": "131",
+    "category": "13",
+    "description": "Walk or bike around the neighborhood or take your dog for a walk. If you can't do either of these, do some exercises inside the house like jumping jacks, cartwheels or handstands.",
+    "status": "1"
+  },
+  {
+    "id": "130",
+    "category": "13",
+    "description": "Read books about healthy living; do anything that keeps you motivated!",
+    "status": "1"
+  },
+  {
+    "id": "127",
+    "category": "13",
+    "description": "When buying meat, choose organic, grass-fed whenever possible. Cheaper cuts of organic meat may be safer than prime cuts of industrially raised meat.",
+    "status": "1"
+  },
+  {
+    "id": "125",
+    "category": "13",
+    "description": "Eat only because you are hungry, not because you are bored, tired or stressed. Use alternatives to eating when you are not hungry: take a walk, play a game, read a book or call a friend.",
+    "status": "1"
+  },
+  {
+    "id": "124",
+    "category": "13",
+    "description": "Do not give your child vitamin supplements unless they are recommended by your doctor.",
+    "status": "1"
+  },
+  {
+    "id": "123",
+    "category": "13",
+    "description": "Eat slowly. It takes 20 minutes for your brain to register that you are full.",
+    "status": "1"
+  },
+  {
+    "id": "122",
+    "category": "13",
+    "description": "Take the stairs instead of the elevator. Move more.",
+    "status": "1"
+  },
+  {
+    "id": "121",
+    "category": "13",
+    "description": "Move more. Try to get between 30 and 60 minutes of physical activity every day. Several 10 to 15 minute sessions of moderate activity each day add up.",
+    "status": "1"
+  },
+  {
+    "id": "120",
+    "category": "13",
+    "description": "Learn how to cope with emotional pain and, if necessary, deal with emotional abuse. Speak with a therapist or someone you trust. Bottling up your feelings will only make your mental state more cluttered.",
+    "status": "1"
+  },
+  {
+    "id": "119",
+    "category": "13",
+    "description": "Make the time to stay connected to your close friends. This does not just mean posting a Youtube video to their Facebook page every once in a while.Friends make you laugh, and laughing is also an important part of health.",
+    "status": "1"
+  },
+  {
+    "id": "118",
+    "category": "13",
+    "description": "Solve puzzles and play games of strategy. These sort of games engage you mentally. You could also learn to play an instrument. All of these activities have been linked to improved memory.",
+    "status": "1"
+  },
+  {
+    "id": "117",
+    "category": "13",
+    "description": "There are some simple ways you can exercise your mind. For example, you can try taking a different route to work, or brush your teeth with the hand you don't normally use.",
+    "status": "1"
+  },
+  {
+    "id": "112",
+    "category": "13",
+    "description": "Feeling sick? Eating 10-12 almonds is the same as having an aspirin.",
+    "status": "1"
+  },
+  {
+    "id": "110",
+    "category": "13",
+    "description": "Singing in the shower daily can help boost your immunity, lower blood pressure, reduce stress, and improve your mood.",
+    "status": "1"
+  },
+  {
+    "id": "109",
+    "category": "13",
+    "description": "Watermelon can help relieve stress and anxiety, keep you energized, and boost your metabolism.",
+    "status": "1"
+  },
+  {
+    "id": "108",
+    "category": "13",
+    "description": "Drinking five cups of green tea in a day can help you lose weight around your belly.",
+    "status": "1"
+  },
+  {
+    "id": "107",
+    "category": "13",
+    "description": "Yawning actually cools down your brain, which helps get rid of stress.",
+    "status": "1"
+  },
+  {
+    "id": "106",
+    "category": "13",
+    "description": "Always exercise on Monday. This sets the psychological pattern for the rest of the week.",
+    "status": "1"
+  },
+  {
+    "id": "103",
+    "category": "13",
+    "description": "Eating plenty of unsalted sunflower seeds is a great home remedy for reducing your cholesterol level.",
+    "status": "1"
+  },
+  {
+    "id": "102",
+    "category": "13",
+    "description": "Losing one night of sleep will impair reasoning and brain function for four days.",
+    "status": "1"
+  },
+  {
+    "id": "101",
+    "category": "13",
+    "description": "As soon as you have brain freeze, push your tongue against the roof of your mouth. It will relieve the pain instantly.",
+    "status": "1"
+  },
+  {
+    "id": "100",
+    "category": "13",
+    "description": "Singing releases a large amount of endorphins in your brain and can make you feel better almost instantly.",
+    "status": "1"
+  },
+  {
+    "id": "99",
+    "category": "13",
+    "description": "According to a study, smelling rubbing alcohol can relieve nausea almost instantly.",
+    "status": "1"
+  },
+  {
+    "id": "96",
+    "category": "13",
+    "description": "Did you know that it is beneficial to lick small cuts? A variety of compounds in human saliva can speed up healing.",
+    "status": "1"
+  },
+  {
+    "id": "95",
+    "category": "13",
+    "description": "Never take ibuprofen on an empty stomach to cure a hangover. It can actually tear your stomach lining.",
+    "status": "1"
+  },
+  {
+    "id": "94",
+    "category": "13",
+    "description": "Believing you have a good memory actually helps you to have a better memory.",
+    "status": "1"
+  },
+  {
+    "id": "93",
+    "category": "13",
+    "description": "Kiwi fruit contains lutein, an antioxidant than can actually help improve your eyesight!",
+    "status": "1"
+  },
+  {
+    "id": "92",
+    "category": "13",
+    "description": "Being surrounded by the color yellow helps you stay focused. Yellow decreases the production of Melatonin, a hormone which makes you sleepy.",
+    "status": "1"
+  },
+  {
+    "id": "91",
+    "category": "13",
+    "description": "If you want to drink orange juice after brushing your teeth, use warm water to brush your tongue and gargle to remove the tooth paste residue that makes orange juice taste so gross!",
+    "status": "1"
+  },
+  {
+    "id": "90",
+    "category": "13",
+    "description": "Be a role model. The childhood impulse to imitate is strong so do not ask your child to eat vegetables while you gorge on potato chips.",
+    "status": "1"
+  },
+  {
+    "id": "87",
+    "category": "13",
+    "description": "Limit portion sizes. Do not insist your child cleans the plate, and never use food as a reward or bribe.",
+    "status": "1"
+  },
+  {
+    "id": "86",
+    "category": "13",
+    "description": "If you are diabetic, STOP EATING WHEAT!",
+    "status": "1"
+  },
+  {
+    "id": "85",
+    "category": "13",
+    "description": "A high intake of added sugar is linked to numerous diseases, including obesity, type 2 diabetes, heart disease and many forms of cancer.",
+    "status": "1"
+  },
+  {
+    "id": "84",
+    "category": "13",
+    "description": "Extra virgin olive oil leads to many beneficial effects on heart health, and people who consume olive oil have a much lower risk of dying from heart attacks and strokes.",
+    "status": "1"
+  },
+  {
+    "id": "83",
+    "category": "13",
+    "description": "Bananas contain bromelain which is an enzyme that controls sex hormones. Bananas also contain Vitamin A, B1 and C. These vitamins promote sperm production. ",
+    "status": "1"
+  },
+  {
+    "id": "82",
+    "category": "13",
+    "description": "Doing aerobic exercise (or cardio) is one of the best things you can do for your mental and physical health.",
+    "status": "1"
+  },
+  {
+    "id": "80",
+    "category": "13",
+    "description": "If your toothpaste says it repairs teeth, make sure it contains 'NovaMin' as an active ingredient. It is the only ingredient that actually does repair teeth.",
+    "status": "1"
+  },
+  {
+    "id": "79",
+    "category": "13",
+    "description": "Eating celery is technically exercise. When you eat celery, you burn more calories digesting it than you consume.",
+    "status": "1"
+  },
+  {
+    "id": "78",
+    "category": "13",
+    "description": "Always feel tired even after getting a good, long sleep? You're probably dehydrated--drink some water right when you wake up.",
+    "status": "1"
+  },
+  {
+    "id": "77",
+    "category": "13",
+    "description": "Feeling dizzy in bed from drinking too much? Put one of your legs on the ground. It will make your body feel more stable, and reduce that spinning feeling.",
+    "status": "1"
+  },
+  {
+    "id": "76",
+    "category": "13",
+    "description": "The smell of an orange relieves stress. Smelling an orange or eating one can reduce stress by over 70%.",
+    "status": "1"
+  },
+  {
+    "id": "75",
+    "category": "13",
+    "description": "Simple breathing technique that helps you regain focus: Breathe in while counting to 3, breathe out while counting to 4.",
+    "status": "1"
+  },
+  {
+    "id": "74",
+    "category": "13",
+    "description": "Need some motivation? Take a shower. Being clean is proven to increase your productivity.",
+    "status": "1"
+  },
+  {
+    "id": "73",
+    "category": "13",
+    "description": "It has been proven that peppermint stimulates brain activity and makes you concentrate better.",
+    "status": "1"
+  },
+  {
+    "id": "72",
+    "category": "13",
+    "description": "Think positively. Positivity, especially in the future tense, speeds up the creation of cells and reduces stress and anxiety, which actually kill brain neurons.",
+    "status": "1"
+  },
+  {
+    "id": "71",
+    "category": "13",
+    "description": "Onions and garlic are both foods that accelerate your hair growth.",
+    "status": "1"
+  },
+  {
+    "id": "69",
+    "category": "13",
+    "description": "Eating grapes improves the brain`s ability to process new information and thus enhances your intelligence.",
+    "status": "1"
+  },
+  {
+    "id": "68",
+    "category": "13",
+    "description": "It is completely safe to eat the stickers that are on fruit. Even the glue used to put them on is food grade.",
+    "status": "1"
+  },
+  {
+    "id": "67",
+    "category": "13",
+    "description": "Chest congested? Steam a sliced or chopped onion, and stand over the pan while it is heating. The sulphuric acid will break up the mucus and help you breathe better.",
+    "status": "1"
+  },
+  {
+    "id": "66",
+    "category": "13",
+    "description": "Have a bad toothache? Rub ice on the back of your hand on the v-shaped webbed area between your thumb and index finger. A study showed that this can relieve the pain by up to 50 percent!",
+    "status": "1"
+  },
+  {
+    "id": "65",
+    "category": "13",
+    "description": "Eating watermelon can help reduce acne breakouts and keep skin healthy.",
+    "status": "1"
+  },
+  {
+    "id": "64",
+    "category": "13",
+    "description": "Chugging one glass of grape juice can relieve migraine headaches almost instantly.",
+    "status": "1"
+  },
+  {
+    "id": "63",
+    "category": "13",
+    "description": "Eating a small amount of chocolate in the morning can actually help your body burn calories and lose weight throughout the day.",
+    "status": "1"
+  },
+  {
+    "id": "62",
+    "category": "13",
+    "description": "Daytime naps help to improve your memory and cut the risk of heart disease.",
+    "status": "1"
+  },
+  {
+    "id": "61",
+    "category": "13",
+    "description": "The scent of a banana contains a compound that may actually help you lose weight.",
+    "status": "1"
+  },
+  {
+    "id": "60",
+    "category": "13",
+    "description": "Skipping meals can cause your body to go into a fat-storing starvation mode, making it harder to burn calories.",
+    "status": "1"
+  },
+  {
+    "id": "59",
+    "category": "13",
+    "description": "If you have painful gas, lie on your back and lift your knees to your chest. You will fart it right out.",
+    "status": "1"
+  },
+  {
+    "id": "58",
+    "category": "13",
+    "description": "Drinking a tablespoon of apple cider vinegar will relieve allergy and asthma symptoms.",
+    "status": "1"
+  },
+  {
+    "id": "57",
+    "category": "13",
+    "description": "Instantly improve your diet by eliminating any foods that have a mascot.",
+    "status": "1"
+  },
+  {
+    "id": "56",
+    "category": "13",
+    "description": "Drinking chocolate milk has been proven to help relieve muscle soreness after a workout.",
+    "status": "1"
+  },
+  {
+    "id": "55",
+    "category": "13",
+    "description": "Stuffy nose? Leave a sliced onion near where you sleep and let it sit for the night. Your nose will be clear by the time you wake up.",
+    "status": "1"
+  },
+  {
+    "id": "54",
+    "category": "13",
+    "description": "The gel from an Advil liquid gel will cure a pimple almost instantly.",
+    "status": "1"
+  },
+  {
+    "id": "53",
+    "category": "13",
+    "description": "If you are experiencing insomnia, drink a glass of raw lemon juice or a spoonful of honey before sleeping. This will drastically improve your sleep.",
+    "status": "1"
+  },
+  {
+    "id": "52",
+    "category": "13",
+    "description": "Eat something too spicy? Drink milk. It will neutralize the spicy taste in your mouth.",
+    "status": "1"
+  },
+  {
+    "id": "51",
+    "category": "13",
+    "description": "If you are a smoker and cannot or do not want to quit, drink more black tea. It helps prevent the lung damage caused by smoking",
+    "status": "1"
+  },
+  {
+    "id": "50",
+    "category": "13",
+    "description": "On the bottom of every Krispy Kreme receipt is a plea to fill out a survey. You get a free doughnut for doing the survey. When you get your doughnut, you get another receipt, with another survey. Free doughnuts for life!",
+    "status": "1"
+  },
+  {
+    "id": "49",
+    "category": "13",
+    "description": "Drinking two glasses of Gatorade can relieve headache pain almost immediately, without the unpleasant side effects caused by traditional pain relievers.",
+    "status": "1"
+  },
+  {
+    "id": "48",
+    "category": "13",
+    "description": "Cannot brush after a meal? Gargle salt water. You will be amazed at all the gunk that comes out!",
+    "status": "1"
+  },
+  {
+    "id": "47",
+    "category": "13",
+    "description": "Suffering from acne? The problem could be your pillow case. Sleeping on a fresh one every night will usually solve the problem.",
+    "status": "1"
+  },
+  {
+    "id": "46",
+    "category": "13",
+    "description": "Set your dorm room to be 60&#730;F to 67&#730;F. This is said to be the best room temperature for a good night`s sleep.",
+    "status": "1"
+  },
+  {
+    "id": "45",
+    "category": "13",
+    "description": "Migraine Relief: Soak one or both of your hands in ice water for as long as you can. While they are in the water make fists and open and close them repeatedly.",
+    "status": "1"
+  },
+  {
+    "id": "44",
+    "category": "13",
+    "description": "Dorm room too hot and stuffy? Hang a damp towel over an open window. Your place will cool down in a matter of minutes.",
+    "status": "1"
+  },
+  {
+    "id": "43",
+    "category": "13",
+    "description": "The next time you have a bad sore throat, try eating marshmallows.",
+    "status": "1"
+  },
+  {
+    "id": "42",
+    "category": "13",
+    "description": "You can kill the Ebola virus before it enters your system by simply washing your hands with soap and water.",
+    "status": "1"
+  },
+  {
+    "id": "41",
+    "category": "13",
+    "description": "Want to get rid of a stubborn zit? Cover it with honey and a band-aid before sleeping.",
+    "status": "1"
+  },
+  {
+    "id": "40",
+    "category": "13",
+    "description": "Be good to people. You will be remembered more for your kindness than any level of success you could possibly attain.",
+    "status": "1"
+  },
+  {
+    "id": "39",
+    "category": "13",
+    "description": "Fat burning foods: grapefruit, watermelon, berries, hot peppers, celery, greek yogurt, eggs, fish, green tea, coffee, water, oatmeal.",
+    "status": "1"
+  },
+  {
+    "id": "38",
+    "category": "13",
+    "description": "When you do not eat for 12 hours, your metabolism slows by 40%. This is why eating regular meals is essential when trying to lose weight.",
+    "status": "1"
+  },
+  {
+    "id": "37",
+    "category": "13",
+    "description": "Honey, when mixed with vinegar and water, can remove worms and other parasites in your body.",
+    "status": "1"
+  },
+  {
+    "id": "36",
+    "category": "13",
+    "description": "Drinking fruit juice does not even come close to the benefits of eating fruit. Fruit juice often contains more sugar and a lot less fiber.",
+    "status": "1"
+  },
+  {
+    "id": "35",
+    "category": "13",
+    "description": "Try to drink water in between your alcoholic drinks. This will prevent a hangover compared to drinking water all at once before sleeping.",
+    "status": "1"
+  },
+  {
+    "id": "34",
+    "category": "13",
+    "description": "Low on black ink but need to print your paper? You can do so by changing the font color to dark blue, it looks the same as black when printed.",
+    "status": "1"
+  },
+  {
+    "id": "33",
+    "category": "13",
+    "description": "A cure for headaches: Take a lime, cut it in half, and rub it on your forehead. The throbbing should go away.",
+    "status": "1"
+  },
+  {
+    "id": "32",
+    "category": "13",
+    "description": "If you want to lose some weight, try to eat spicy foods as they fool the taste buds into being satisfied even with small amount of food.",
+    "status": "1"
+  },
+  {
+    "id": "31",
+    "category": "13",
+    "description": "Chocolate milk is more efficient at giving you energy than most energy drinks.",
+    "status": "1"
+  },
+  {
+    "id": "30",
+    "category": "13",
+    "description": "Put toothpaste on a pimple and it will disappear over night.",
+    "status": "1"
+  },
+  {
+    "id": "29",
+    "category": "13",
+    "description": "Sugar can cure a burnt tongue.",
+    "status": "1"
+  },
+  {
+    "id": "28",
+    "category": "13",
+    "description": "A tablespoon of apple cider vinegar relieves allergy and asthma symptoms.",
+    "status": "1"
+  },
+  {
+    "id": "27",
+    "category": "13",
+    "description": "Showering with cooler water can stop dandruff.",
+    "status": "1"
+  },
+  {
+    "id": "26",
+    "category": "13",
+    "description": "11 Stress Relieving Foods -Bananas -Pasta -Almonds -Grapes -Green Tea -Oatmeal -Chocolate -Water melon -Orange Juice -Cornflakes -Tuna.",
+    "status": "1"
+  },
+  {
+    "id": "25",
+    "category": "13",
+    "description": "If YouTube is forcing you to sign in, delete everything after the last 'v=' and then change 'v=' to 'v/'.",
+    "status": "1"
+  },
+  {
+    "id": "24",
+    "category": "13",
+    "description": "Finding it hard to balance your school work and your workout schedule? Download the app 'Pact' for some extra motivation, and cash! The app has a community of users that will literally pay you to stick to your workout schedule.",
+    "status": "1"
+  },
+  {
+    "id": "22",
+    "category": "13",
+    "description": "Taking a 20-30 minute nap in the day will give you about 10 hours of alertness.",
+    "status": "1"
+  },
+  {
+    "id": "21",
+    "category": "13",
+    "description": "If you keep smelling something that is not really there, you may be experiencing the earliest symptoms of schizophrenia.",
+    "status": "1"
+  },
+  {
+    "id": "20",
+    "category": "13",
+    "description": "You can buy fun, but you can't buy happiness. Don't get the two confused.",
+    "status": "1"
+  },
+  {
+    "id": "18",
+    "category": "13",
+    "description": "Drinking white or green tea every day will minimize the environmental damage done to your skin, and minimize fine lines and wrinkles.",
+    "status": "1"
+  },
+  {
+    "id": "17",
+    "category": "13",
+    "description": "Eating blueberries and strawberries helps protect the brain from premature ageing.",
+    "status": "1"
+  },
+  {
+    "id": "16",
+    "category": "13",
+    "description": "10-15 minutes of jump roping can burn over 200 calories. This makes jump roping one of the best and efficient forms of cardio.",
+    "status": "1"
+  },
+  {
+    "id": "15",
+    "category": "13",
+    "description": "Regular coffee consumption has been proven to reduce the risk of mental diseases such as Dementia and Alzheimer's.",
+    "status": "1"
+  },
+  {
+    "id": "14",
+    "category": "13",
+    "description": "Blueberries can help improve your memory.",
+    "status": "1"
+  },
+  {
+    "id": "13",
+    "category": "13",
+    "description": "Having no friends could be as deadly as smoking, a Harvard University study suggests.",
+    "status": "1"
+  },
+  {
+    "id": "12",
+    "category": "13",
+    "description": "Dancing has been proven to make you smarter and healthier.",
+    "status": "1"
+  },
+  {
+    "id": "11",
+    "category": "13",
+    "description": "The human body burns 3-6 calories when your nipples become hard.",
+    "status": "1"
+  },
+  {
+    "id": "10",
+    "category": "13",
+    "description": "A new 2017 study has reaffirmed, the more time you spend on Facebook, the worse you feel about yourself.",
+    "status": "1"
+  },
+  {
+    "id": "9",
+    "category": "13",
+    "description": "Positive emotions enhances the brain's ability to make good decisions.",
+    "status": "1"
+  },
+  {
+    "id": "8",
+    "category": "13",
+    "description": "Ketchup doesn't spoil easily and can be good for up to two years past its expiration date.",
+    "status": "1"
+  },
+  {
+    "id": "7",
+    "category": "13",
+    "description": "People who are energetic, happy and relaxed are less likely to catch colds than those who are depressed, nervous or angry.",
+    "status": "1"
+  },
+  {
+    "id": "6",
+    "category": "13",
+    "description": "According to the largest study ever done on marijuana, smoking it once or twice a week is not bad for your lungs.",
+    "status": "1"
+  },
+  {
+    "id": "5",
+    "category": "13",
+    "description": "Contrary to popular belief, cracking your knuckles can actually be good for you.",
+    "status": "1"
+  },
+  {
+    "id": "4",
+    "category": "13",
+    "description": "To cure a tickling throat, scratch the inside of your ear.",
+    "status": "1"
+  },
+  {
+    "id": "3",
+    "category": "13",
+    "description": "Researchers have found that taking a hot bath can actually burn as many calories as a 30-minute walk.",
+    "status": "1"
+  },
+  {
+    "id": "2",
+    "category": "13",
+    "description": "Those who kiss more frequently are less likely to suffer from stomach, bladder, and blood infections.",
+    "status": "1"
+  },
+  {
+    "id": "1",
+    "category": "13",
+    "description": "Chocolate, sex and laughter are all key to a healthy brain.",
+    "status": "1"
+  }
+]
+}
